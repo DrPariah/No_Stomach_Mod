@@ -1,5 +1,5 @@
 # No_Stomach_Mod
-A mod adding the `Self Sustained Stomach` trait that makes your hunger and thirst constant no matter what.
+A mod adding the `Sustenance From The Void` trait that makes your hunger and thirst constant no matter what.
 
 **How to Install**
 
