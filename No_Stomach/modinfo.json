@@ -5,6 +5,7 @@
     "name": "Self Sustained Stomach",
     "authors": [ "Fris0uman" ],
     "description": "Add a trait to make hunger and thirst constant.",
+    "category": "balance",
     "dependencies": [ "dda" ]
   },
   {
